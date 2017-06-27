@@ -1,5 +1,5 @@
 # RinseEngine
-Game engine but very very alpha
+Simple game engine
 
 # Compile the project
 1. Open LevelEditor/build
